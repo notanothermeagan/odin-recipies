@@ -1,1 +1,1 @@
-# the_odin_project
+# todin-recipies
